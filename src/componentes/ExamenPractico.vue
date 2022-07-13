@@ -80,7 +80,11 @@
     },
     },
     computed: {
-      
+     /*  contarPalabras2(){
+        return this.textoIngresado.split(" ").length
+      } 
+      lo hice de ambas maneras, en este caso me tira error y se cae la pagina
+      */ 
     }
 }
 
